@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Andrei Beliankou (arbox)
 
 <!--
 **arbox/arbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💬 Ask me about:
+  - Ruby
+  - Scientific Computing
+  - Web Development
+
+📫 How to reach me:
+  - email: arbox@yandex.com
