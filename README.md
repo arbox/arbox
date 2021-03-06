@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently maintaining the Russian version of The
+[Ruby](https://github.com/arbox/ruby-style-guide)
+and
+[Rails](https://github.com/arbox/rails-style-guide)
+Style Guides.
+
 💬 Ask me about:
   - Ruby
   - Scientific Computing
